@@ -3,7 +3,6 @@
 const LandingScreen = () => {
   return (
     <div>
-        <br />
         <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
             Rem quisquam quidem itaque velit, quas, impedit accusamus
